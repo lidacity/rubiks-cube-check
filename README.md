@@ -65,4 +65,4 @@ Cube = list("OBBOYYWWRWWROORGOGBRYBBGWRYBGORRYBGYWWGBGYOBYRYOGWWROG")
 ```
 
 ## Источник
-Как собрать кубик Рубика из деталей? [https://habr.com/ru/post/597193/]
+[Как собрать кубик Рубика из деталей?](https://habr.com/ru/post/597193/)
